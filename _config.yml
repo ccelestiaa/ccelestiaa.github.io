@@ -11,7 +11,7 @@ title: "chasing celestial chronicles"
 tagline: ""
 description: "celestia's cs blog"
 
-url: "https://stellestia.github.io"
+url: "https://ccelestiaa.github.io"
 baseurl: ""
 
 # =========================================================
@@ -19,13 +19,13 @@ baseurl: ""
 # =========================================================
 
 github:
-  username: stellestia
+  username: ccelestiaa
 
 social:
-  name: stellestia
+  name: ccelestiaa
   email: example@domain.com
   links:
-    - https://github.com/stellestia
+    - https://github.com/ccelestiaa
 
 # =========================================================
 # Appearance
